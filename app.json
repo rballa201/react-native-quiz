@@ -31,6 +31,9 @@
     },
     "androidNavigationBar": {
       "visible": false
-    }
-  }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Honours Quiz",
+  "name": "honoursProjectQuiz"
 }
