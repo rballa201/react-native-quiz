@@ -11,7 +11,7 @@ export default ({ navigation }) => (
   <ScrollView style={styles.container}>
     <StatusBar barStyle="dark-content" />
     <RowItem
-      name="Computers"
+      name="Computer"
       color="#49475B"
       onPress={() => {
         const questions = {};
